@@ -61,4 +61,7 @@ I also enjoy learning every day about Artificial Intelligence, exploring new ide
 <a  href="https://www.tiktok.com/@julianortizb">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
+  <a  href="https://www.youtube.com/@JulianCodeLab">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+</a>
 </span>  
