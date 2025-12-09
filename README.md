@@ -25,7 +25,6 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
 
 I am an undergraduate **Software Development Engineering student** passionate about creating innovative and productive solutions.
-
 **Languages I'm proficient in:** Python, JavaScript, HTML, and CSS
 
 I love to learn and build something new, productive, innovative, and creative.
