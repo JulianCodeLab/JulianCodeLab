@@ -55,9 +55,10 @@ I also enjoy learning every day about Artificial Intelligence, exploring new ide
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
-
+<h4> Social Media </h4>
+<span>  
 <a  href="https://www.tiktok.com/@julianortizb">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
+</span>  
