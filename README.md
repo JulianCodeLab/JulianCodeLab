@@ -1,67 +1,135 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Julián Ortiz</a></h1>
+<div align="center">
+  <img src="https://yt3.googleusercontent.com/_6drDLIva3btWFioR48vOxHNzBaoGW7S9qtgvCwfHAuqtXIQ-e-V54N0oxza-W4WidfbVIu8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner" width="100%">
+</div>
 
-<img align="right" width="300px" alt="Unicorn" style="border-radius: 30px; margin-top: 60px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRxNHk0ajA2NmsxaHp6aHF5dWVrNWtpYjJuOXQ4cGo4ZnhuN2NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Julián Ortiz</a></h1>
 
-***<picture>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-</picture>&nbsp;About me***
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full-Stack+Enthusiast;AI+%26+Mobile+Dev+Learner;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-I am an undergraduate Software Development Engineering student.  
-Python, JavaScript, HTML, and Css are the programming languages I am proficient in.  
+<br>
+
+***<img align="right" width="300px" alt="Coding Animation" style="border-radius: 30px; margin-top: 60px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRxNHk0ajA2NmsxaHp6aHF5dWVrNWtpYjJuOXQ4cGo4ZnhuN2NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me***
+
+I am an undergraduate **Software Development Engineering student** passionate about creating innovative and productive solutions.
+
+**Languages I'm proficient in:** Python, JavaScript, HTML, and CSS
+
 I love to learn and build something new, productive, innovative, and creative.
 
-* I am interested in Web designing, Android development, Mobile Application Development, and I enjoy learning every day about Artificial Intelligence..
+### 🎯 Interests
+- 🌐 Web Designing
+- 📱 Android & Mobile Application Development
+- 🤖 Artificial Intelligence (exploring new ideas and innovations daily)
 
-I also enjoy learning every day about Artificial Intelligence, exploring new ideas and innovations.
-- 🌱 I'm currently learning ...
-  - JavaScript
-  - React js
-  - Tailwind
-- 👯 I'm looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 🎸 I love to play guitar , 🖌️ do painting and sketching, 🎵 listen to music, and 🚗 driving cars.
-- 📫 Reach out to me at: <a href="juliandavid06g@gmail.com">juliandavid06g@gmail.com</a>
-- 📱 Reach out to me: 
-  <a href="https://wa.me/573045772793" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         alt="WhatsApp" width="20" height="20" style="vertical-align:middle; margin-right:5px;">
-    +57 3045772793
-  </a>
-  #### My Skills Include
+### 🌱 Currently Learning
+- **JavaScript** (Advanced concepts)
+- **React.js** (Building modern UIs)
+- **Tailwind CSS** (Rapid styling)
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
+### 🤝 Open to Collaboration
+👯 I'm looking forward to collaborate on **open source projects**
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
+### 💬 Ask Me Anything
+✔ I am happy to help, only if the ball is in my court! 😉
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+### 🎨 Outside Tech
+- 🎸 Playing guitar
+- 🖌️ Painting and sketching
+- 🎵 Listening to music
+- 🚗 Driving cars
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<br clear="right"/>
 
+---
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
-<h4> Social Media </h4>
-<span>  
-<a  href="https://www.tiktok.com/@julianortizb">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+## 🛠️ My Skills Include
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### 🎨 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JulianCodeLab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianCodeLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianCodeLab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### Contact Me
+
+<a href="mailto:juliandavid06g@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-  <a  href="https://www.youtube.com/@JulianCodeLab">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+
+<a href="https://wa.me/573045772793" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-</span>  
+
+### Social Media
+
+<a href="https://www.tiktok.com/@julianortizb" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+
+<a href="https://www.youtube.com/@JulianCodeLab" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JulianCodeLab&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+  <i>💡 "The only way to do great work is to love what you do." - Steve Jobs</i>
+  <br><br>
+  <b>Thanks for visiting! Happy Coding! 🚀</b>
+</p>
