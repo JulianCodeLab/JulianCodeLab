@@ -101,20 +101,16 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,50:a855f7,100:00d4ff&height=100&section=footer" width="100%"/>
 </div>
 
 <p align="center">
-  <i>💡 "The only way to do great work is to love what you do." - Steve Jobs</i>
+  <i>💡 "The mind that opens to a new idea never returns to its original size." - Albert Einstein</i>
   <br><br>
   <b>Thanks for visiting! Happy Coding! 🚀</b>
 </p>
