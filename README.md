@@ -20,11 +20,12 @@
 
 <br>
 
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> ***About Me***
 <img align="right" width="300px" alt="Coding Animation" style="border-radius: 30px; margin-top: 60px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRxNHk0ajA2NmsxaHp6aHF5dWVrNWtpYjJuOXQ4cGo4ZnhuN2NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
-
 I am an undergraduate **Software Development Engineering student** passionate about creating innovative and productive solutions.
+
 **Languages I'm proficient in:** Python, JavaScript, HTML, and CSS
 
 I love to learn and build something new, productive, innovative, and creative.
@@ -79,14 +80,6 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
----
 
 ### Contact Me
 
@@ -108,13 +101,13 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-
+<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
 
 ---
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
