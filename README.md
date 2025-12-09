@@ -5,13 +5,24 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Julián Ortiz</a></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full-Stack+Enthusiast;AI+%26+Mobile+Dev+Learner;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Development+Student;Full-Stack+Enthusiast;AI+%26+Mobile+Dev+Learner;Open+to+Job+Opportunities+%F0%9F%92%BC;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+### 💼 Open for Work | Actively Seeking Opportunities
+  
+<a href="mailto:juliandavid06g@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-Available-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Work">
+</a>
+
 </div>
 
 <br>
 
-***<img align="right" width="300px" alt="Coding Animation" style="border-radius: 30px; margin-top: 60px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRxNHk0ajA2NmsxaHp6aHF5dWVrNWtpYjJuOXQ4cGo4ZnhuN2NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me***
+<img align="right" width="300px" alt="Coding Animation" style="border-radius: 30px; margin-top: 60px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRxNHk0ajA2NmsxaHp6aHF5dWVrNWtpYjJuOXQ4cGo4ZnhuN2NvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
 
 I am an undergraduate **Software Development Engineering student** passionate about creating innovative and productive solutions.
 
@@ -23,6 +34,9 @@ I love to learn and build something new, productive, innovative, and creative.
 - 🌐 Web Designing
 - 📱 Android & Mobile Application Development
 - 🤖 Artificial Intelligence (exploring new ideas and innovations daily)
+
+### 💼 Career Status
+🚀 **Currently seeking opportunities** in software development, web development, or mobile application development roles. Open to internships, junior positions, and freelance projects!
 
 ### 🌱 Currently Learning
 - **JavaScript** (Advanced concepts)
@@ -75,23 +89,6 @@ I love to learn and build something new, productive, innovative, and creative.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JulianCodeLab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianCodeLab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianCodeLab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
 ### Contact Me
 
 <a href="mailto:juliandavid06g@gmail.com">
@@ -112,17 +109,13 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulianCodeLab&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
