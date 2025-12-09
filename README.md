@@ -69,10 +69,13 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### 🎨 Frameworks & Libraries
+### 🎨 Frameworks, Libraries & Other Technologies
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  
 </p>
 
 ### 🗄️ Databases
@@ -110,7 +113,7 @@ I love to learn and build something new, productive, innovative, and creative.
 </div>
 
 <p align="center">
-  <i>💡 "The mind that opens to a new idea never returns to its original size." - Albert Einstein</i>
+  <i>"The mind that opens to a new idea never returns to its original size." - Albert Einstein</i>
   <br><br>
   <b>Thanks for visiting! Happy Coding! 🚀</b>
 </p>
