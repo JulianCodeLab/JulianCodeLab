@@ -99,6 +99,10 @@ I love to learn and build something new, productive, innovative, and creative.
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
+<a href="https://www.linkedin.com/in/juliancodelab">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 ### Social Media
 
 <a href="https://www.tiktok.com/@julianortizb" target="_blank">
