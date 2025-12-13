@@ -1,6 +1,8 @@
+<a href="https://www.tiktok.com/@juliancodelab10"> 
 <div align="center">
   <img src="https://yt3.googleusercontent.com/_6drDLIva3btWFioR48vOxHNzBaoGW7S9qtgvCwfHAuqtXIQ-e-V54N0oxza-W4WidfbVIu8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner" width="100%">
 </div>
+</a>
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Julián Ortiz</a></h1>
 
